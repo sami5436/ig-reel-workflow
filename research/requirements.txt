@@ -17,3 +17,9 @@ langchain-chroma
 uuid
 
 datetime
+
+soundfile
+
+librosa
+
+espeak
