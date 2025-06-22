@@ -1,0 +1,19 @@
+# For Text-to-Speech
+TTS
+
+# Core LangChain package
+langchain
+
+# For community integrations like Ollama LLM
+langchain-community
+
+# For the dedicated Ollama embeddings
+langchain-ollama
+
+# For the Chroma vector store integration
+# This also installs the actual chromadb package as a dependency
+langchain-chroma
+
+uuid
+
+datetime
