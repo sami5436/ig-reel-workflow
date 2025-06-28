@@ -1,4 +1,5 @@
-/research/vectordb
+**/vectordb*
+**/chroma_db*
 **/output*
 **/subway*
 **/client*

@@ -1,0 +1,23 @@
+# Core LangGraph and LangChain
+langgraph
+langchain
+langchain-ollama
+langchain-chroma
+
+# Text-to-Speech
+kokoro
+soundfile
+numpy
+
+# Video processing
+yt-dlp
+imageio-ffmpeg
+
+# YouTube API
+google-auth-oauthlib
+google-api-python-client
+
+# Utilities
+pathlib
+uuid
+datetime 
